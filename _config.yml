@@ -1,0 +1,28 @@
+name: pugachevsky
+favicon: null
+layout_spectrum: 0.27372777601704
+typography_spectrum: 0.5501741184853017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6566092884168029
+  lightness: 0.6665227238554507
+  saturation: 0.5211885054595768
+  rhythmicContrast: 0.04433128982782364
+purpose: []
